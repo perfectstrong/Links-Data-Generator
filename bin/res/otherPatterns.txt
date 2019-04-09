@@ -1,0 +1,8 @@
+﻿
+-2;Minh họa;Illustrations;Illustration;Illu;Illus;Hình minh họa
+-1;Mở đầu;Prologue
+9989;Chương kết;Epilogue;Epi;Kết thúc;Đoạn kết;Phần kết
+9990;Lời bạt;Afterword;Aw;Lời tựa
+9991;Phụ lục;Appendix
+9990;Giao đoạn;Intermission;Inter
+null;Toàn văn;Full text;Full
